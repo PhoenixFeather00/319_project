@@ -1,0 +1,24 @@
+[{
+    "Title": "FTL",
+    "image": "./images/FTL2.jpg",
+    "description": "This spaceship simulation roguelike-like allows you to take your ship and crew on an adventure through a randomly generated galaxy filled with glory and bitter defeat.",
+    "storepage": "https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/"
+},
+{
+    "Title": "Risk of Rain 2",
+    "image": "./images/Risk.jpg",
+    "description": "Escape a chaotic alien planet by fighting through hordes of frenzied monsters – with your friends, or on your own. Combine loot in surprising ways and master each character until you become the havoc you feared upon your first crash landing.",
+    "storepage": "https://store.steampowered.com/app/646570/Slay_the_Spire/"
+},
+{
+    "Title": "Slay The Spire",
+    "image": "./images/slay.jpg",
+    "description": "Craft a unique deck, encounter bizarre creatures, discover relics of immense power, and Slay the Spire!",
+    "storepage": "https://store.steampowered.com/app/646570/Slay_the_Spire/"
+},
+{
+    "Title": "Calculate It",
+    "image": "./images/calculate .jpg",
+    "description": " A boring device has turned into an interesting strategy, where each calculator you collect sets its own style of play. Can you count all the numbers and prove who's the king of calculations here?",
+    "storepage": "https://store.steampowered.com/app/3043740/Calculate_It/"
+}]
