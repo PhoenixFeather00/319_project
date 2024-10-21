@@ -1,9 +1,3 @@
-/*
-    Randolph Roman
-    rgroman@iastate.edu
-    Oct 19, 2024
-
-*/
 function showGames() {
     fetch("./data.json")
       .then((response) => response.json())

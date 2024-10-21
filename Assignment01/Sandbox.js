@@ -5,7 +5,7 @@
 
 */
 function showGames() {
-  fetch("./SandboxSurvival.json")
+  fetch("./data.json")
     .then((response) => response.json())
     .then((myGames) => loadGames(myGames))
     .catch((err) => console.log("Error :" + err));
@@ -15,8 +15,8 @@ function showGames() {
 
 function loadGames(myGames) {
   const arrayGames = [];
-  for (let i = 0; i < myGames.Games.length; i++) {
-    arrayGames.push(myGames.Games[i]);
+  for (let i = 0; i < myGames.sandBoxGames.length; i++) {
+    arrayGames.push(myGames.sandBoxGames[i]);
   }
 
 
