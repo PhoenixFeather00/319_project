@@ -1,0 +1,23 @@
+{
+    "Games": [{
+        "Name": "Minecraft",
+        "Description": "This game needs no introduction. The highest sold game ever, Minecraft revolutionized the sandbox survival-craft genre with its simple mechanics and vast world. The only limit is your imagination.",
+        "Picture": "./images/Minecraft.jpg"
+    },
+    {
+        "Name": "Terraria",
+        "Description": "Often accused of being a \"2-D Minecraft\", Terraria takes the sandbox survival-craft genere and incorporates many RPG elements by including a proper path of progression with multiple challenging bosses, and 5000+ unique items.",
+        "Picture": "./images/Terraria.jpg"
+    },
+    {
+        "Name": "Core Keeper",
+        "Description": "New to the sandbox survival-craft genre, this game takes inspiration from Terraria's more RPG elements, but changes the enviorment to a more subterarianian theme, with dark caves, lush forests, and sunken seas.",
+        "Picture": "./images/core-keeper.jpg"
+    },
+    {
+        "Name": "Enshrouded",
+        "Description": "Enshrouded takes place in an entirly voxel world, hand crafted to tell it's story. With multiple ways to play and level up your character, uncover the mysteries of the shorud in the beautiful sandbox survival-craft game.",
+        "Picture": "./images/Enshrouded.jpg"
+    }
+    ]
+}
